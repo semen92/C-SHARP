@@ -1,2 +1,0 @@
-# C-SHARP
-C SHARP
